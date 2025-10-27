@@ -1,3 +1,5 @@
+// Q26.) Program to find sum, minimum, and maximum of variable number of arguments using variadic functions in C
+
 #include <stdarg.h>
 #include <stdio.h>
 #include <stdlib.h>

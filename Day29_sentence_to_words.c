@@ -1,3 +1,5 @@
+// Q29.) Program to split a sentence into words and print each word on a new line in C
+
 #include <stdio.h>
 #include <string.h>
 

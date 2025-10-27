@@ -1,3 +1,5 @@
+//Q21.) Program to reverse and print an array using dynamic memory allocation in C
+
 #include <stdio.h>
 #include <stdlib.h>
 

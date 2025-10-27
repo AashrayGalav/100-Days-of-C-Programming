@@ -1,3 +1,4 @@
+// Q27.) Program to find the nth term of a sequence using recursion where each term is the sum of the previous three terms in C
 
 #include <stdio.h>
 

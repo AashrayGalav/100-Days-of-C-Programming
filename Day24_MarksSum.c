@@ -1,3 +1,5 @@
+// Q24.) Program to calculate the sum of marks of boys or girls based on gender input in C
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

@@ -1,3 +1,5 @@
+// Q30.)Program to find maximum bitwise AND, OR, and XOR values less than a given limit using functions in C
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

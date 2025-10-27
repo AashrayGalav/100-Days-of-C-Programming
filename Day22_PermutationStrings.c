@@ -1,3 +1,5 @@
+//Q22.) Program to generate and print all lexicographic permutations of strings in C
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

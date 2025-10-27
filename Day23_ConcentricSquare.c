@@ -1,3 +1,5 @@
+// Q23.) Program to print a concentric square number pattern in C
+
 #include <stdio.h>
 
 int min(int a, int b, int c, int d) {

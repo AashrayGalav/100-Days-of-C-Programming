@@ -1,3 +1,5 @@
+// Q28.) Program to count and print the frequency of each digit (0–9) in a given number string in C
+
 #include <stdio.h>
 #include <string.h>
 
