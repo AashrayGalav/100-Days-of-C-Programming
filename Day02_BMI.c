@@ -1,3 +1,5 @@
+//Q2.) write a code in C to input weight,height to calculate BMI, and give category.
+
 #include <stdio.h>
 
 int main() {
