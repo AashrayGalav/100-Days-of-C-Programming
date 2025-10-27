@@ -1,3 +1,4 @@
+//Q1.) write a code in to input length and breadth of 3 rectangles and calculate their perimeters and find the highest one.
 #include <stdio.h>
 
 int main() {
