@@ -1,3 +1,5 @@
+//Write a Program to update two integers with their sum and absolute difference using pointers in C
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+//Q12.)Write a Program to perform addition and subtraction of two integers and two floating-point numbers in C.
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

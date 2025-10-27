@@ -1,3 +1,5 @@
+//Q16.)Write a Program to print the English word representation of a number (1–9) or “Greater than 9” in C
+
 #include <stdio.h>
 
 int main() {

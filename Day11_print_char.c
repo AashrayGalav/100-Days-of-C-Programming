@@ -1,3 +1,5 @@
+//Q11.) Write a Program in C to read and print a character, a word, and a full sentence.
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

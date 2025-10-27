@@ -1,3 +1,5 @@
+//Q14.) Write a Program to find the maximum of four integers using a function in C.
+
 #include <stdio.h>
 
 int max_of_four(int a, int b, int c, int d) {

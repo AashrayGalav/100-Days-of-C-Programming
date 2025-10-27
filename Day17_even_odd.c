@@ -1,3 +1,5 @@
+//Q17.)Program to print numbers in words for 1–9 and “even” or “odd” for numbers greater than 9 in C
+
 #include <stdio.h>
 
 int main() {
